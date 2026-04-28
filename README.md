@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;DevOps+Learner;Problem+Solver&center=true&width=500&height=50">
+</p>
 
 <!<h1 align="center">Hi 👋, I'm Asim Rana</h1>
 <h3 align="center">Computer Science Student | Backend Developer | DevOps Learner</h3>
@@ -43,4 +46,10 @@
 
 ⭐ *"Consistency beats talent"*  --
 **asimrana01/asimrana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
