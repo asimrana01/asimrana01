@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 4th Semester Computer Science Student  
+- 🎓 6th Semester Computer Science Student  
 - 💻 Focused on **Backend Development**  
 - ⚙️ Learning **DevOps + DSA + Python OOP**  
 - 🎯 Goal: Become a **Software Engineer**
